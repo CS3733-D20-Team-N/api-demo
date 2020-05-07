@@ -28,6 +28,7 @@ dependencies {
             'org.slf4j:slf4j-simple:1.7.30',
             [group: 'edu.wpi.cs3733.d20.teamN', name: 'sanitation', version:'1.8.2']
     )
+    compile 'org.mybatis:mybatis:3.5.4', group: 'org.apache.commons', name: 'commons-text', version: '1.8'
 
     testImplementation(
             'org.junit.jupiter:junit-jupiter:5.6.0',
