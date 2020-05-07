@@ -157,6 +157,6 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
-
+/NSanitationDB/
 # End of https://www.gitignore.io/api/java,macos,gradle,intellij+all
 

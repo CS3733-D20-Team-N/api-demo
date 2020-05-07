@@ -26,6 +26,7 @@ dependencies {
 
             'org.slf4j:slf4j-api:1.7.30',
             'org.slf4j:slf4j-simple:1.7.30',
+            [group: 'edu.wpi.cs3733.d20.teamN', name: 'sanitation', version:'1.8.2']
     )
 
     testImplementation(
